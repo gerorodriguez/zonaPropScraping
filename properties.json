@@ -1,0 +1,142 @@
+[
+    {
+        "price": "USD 16.000",
+        "location": "Mitre y 3 de Febrero",
+        "details": [
+            "13 m2 tot."
+        ]
+    },
+    {
+        "price": "USD 179.000",
+        "location": "cordoba 1500",
+        "details": [
+            "246 m2 tot. 5 amb. 3 dorm. 1 baño"
+        ]
+    },
+    {
+        "price": "USD 105.000",
+        "location": "24 de Septiembre al 1100",
+        "details": [
+            "210 m2 tot. 5 amb. 3 dorm. 2 baños 1 coch."
+        ]
+    },
+    {
+        "price": "USD 182.000",
+        "location": "Av. Estanislao Lopez 2671",
+        "details": [
+            "18 un. 1 a 6 amb. 56 a 330 m2 tot."
+        ]
+    },
+    {
+        "price": "USD 270.000",
+        "location": "Entre Rios al 400",
+        "details": [
+            "174 m2 tot. 3 amb. 2 dorm. 2 baños"
+        ]
+    },
+    {
+        "price": "USD 170.000",
+        "location": "Laprida 1300. Casa N° 08",
+        "details": [
+            "161 m2 tot. 4 amb. 3 dorm. 2 baños 2 coch."
+        ]
+    },
+    {
+        "price": "USD 220.000",
+        "location": "Uriarte al 300",
+        "details": [
+            "126 m2 tot. 4 amb. 2 dorm. 3 baños 1 coch."
+        ]
+    },
+    {
+        "price": "USD 81.000",
+        "location": "ZEBALLOS 1889",
+        "details": [
+            "4 un. 2 a 3 amb. 47 a 66 m2 tot."
+        ]
+    },
+    {
+        "price": "USD 290.700",
+        "location": "Mendoza al 800. 02 - B.",
+        "details": [
+            "192 m2 tot. 4 amb. 3 dorm. 2 baños"
+        ]
+    },
+    {
+        "price": "USD 280.000",
+        "location": "Juan manuel de Rosas 1505",
+        "details": [
+            "140 m2 tot."
+        ]
+    },
+    {
+        "price": "USD 85.000",
+        "location": "Jujuy 2857",
+        "details": [
+            "52 m2 tot. 2 amb. 1 dorm. 1 baño"
+        ]
+    },
+    {
+        "price": "USD 110.000",
+        "location": "Av Candido Carballo",
+        "details": [
+            "14 un. 1 a 4 amb. 45 a 202 m2 tot."
+        ]
+    },
+    {
+        "price": "USD 62.000",
+        "location": "Cerrito y Cafferata",
+        "details": [
+            "103 m2 tot. 3 amb. 2 dorm. 2 baños 1 coch."
+        ]
+    },
+    {
+        "price": "USD 300.000",
+        "location": "Bv Rondeau al 1800",
+        "details": [
+            "144 m2 tot. 8 amb. 4 baños"
+        ]
+    },
+    {
+        "price": "USD 37.000",
+        "location": "Colon 1900. Entre Pasco y Ituzaingo",
+        "details": [
+            "32 m2 tot. 1 amb. 1 baño"
+        ]
+    },
+    {
+        "price": "USD 200.000",
+        "location": "JOSÉ HERNANDEZ 1220",
+        "details": [
+            "20 un. 2 a 6 amb. 70 a 440 m2 tot."
+        ]
+    },
+    {
+        "price": "USD 35.000",
+        "location": "Asamblea y Víctor Mercante",
+        "details": [
+            "37 m2 tot. 2 amb. 1 dorm. 1 baño"
+        ]
+    },
+    {
+        "price": "USD 39.500",
+        "location": "24 de Septiembre 1400",
+        "details": [
+            "46 m2 tot. 2 amb. 1 dorm. 1 baño"
+        ]
+    },
+    {
+        "price": "USD 71.000",
+        "location": "Cordoba al 2600",
+        "details": [
+            "47 m2 tot. 1 amb. 1 baño"
+        ]
+    },
+    {
+        "price": "USD 100.000",
+        "location": "Genova 980 bis",
+        "details": [
+            "5 un. 3 amb. 80 m2 tot."
+        ]
+    }
+]
